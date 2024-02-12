@@ -1,5 +1,7 @@
 body {
     background-image: url(foni2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h2, h3, h4, p {
     color: #C3C3C3;
